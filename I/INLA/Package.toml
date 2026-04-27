@@ -1,0 +1,4 @@
+name = "INLA"
+uuid = "0e5511d8-343a-4ee4-83ff-c93235e7b734"
+repo = "https://github.com/haavardhvarnes/INLA.git"
+subdir = "packages/INLA.jl"
