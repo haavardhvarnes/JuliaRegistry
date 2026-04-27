@@ -1,0 +1,4 @@
+name = "INLASPDE"
+uuid = "2835c710-3f40-4945-979f-d21c9e20d425"
+repo = "https://github.com/haavardhvarnes/INLA.git"
+subdir = "packages/INLASPDE.jl"

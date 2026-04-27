@@ -1,0 +1,4 @@
+name = "LatentGaussianModels"
+uuid = "50d8cc41-879e-4ac9-9bf2-e3c789b17716"
+repo = "https://github.com/haavardhvarnes/INLA.git"
+subdir = "packages/LatentGaussianModels.jl"

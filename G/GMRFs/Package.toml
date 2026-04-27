@@ -1,0 +1,4 @@
+name = "GMRFs"
+uuid = "a8720bf5-58d3-44b3-b5a9-acd31420dc17"
+repo = "https://github.com/haavardhvarnes/INLA.git"
+subdir = "packages/GMRFs.jl"
