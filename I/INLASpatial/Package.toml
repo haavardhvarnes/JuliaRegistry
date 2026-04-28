@@ -1,0 +1,4 @@
+name = "INLASpatial"
+uuid = "d3e4f5a6-b7c8-4d9e-0f1a-2b3c4d5e6f7a"
+repo = "https://github.com/haavardhvarnes/IntegratedNestedLaplace.jl.git"
+subdir = "dev/INLASpatial"
