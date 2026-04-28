@@ -1,0 +1,3 @@
+name = "IntegratedNestedLaplace"
+uuid = "b7a2d392-5b12-4f3b-b8c2-39f8f3c7e8e5"
+repo = "https://github.com/haavardhvarnes/IntegratedNestedLaplace.jl.git"
