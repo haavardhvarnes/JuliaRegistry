@@ -1,4 +1,4 @@
-[0]
+["0.1"]
 GMRFs = "0.1"
 INLASPDE = "0.1"
 LatentGaussianModels = "0.1"

@@ -1,3 +1,7 @@
-[0]
+["0.1.0"]
 GeoInterface = "1"
 MakieCore = "0.7-0.8"
+
+["0.1.1"]
+GeoInterface = "1"
+MakieCore = "0.7-0.10"
