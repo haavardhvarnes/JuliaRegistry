@@ -8,5 +8,6 @@ description = "Private Julia package registry"
 2835c710-3f40-4945-979f-d21c9e20d425 = { name = "INLASPDE", path = "I/INLASPDE" }
 28708ac2-a765-4cf9-a54c-708b26c5e9a3 = { name = "INLASPDERasters", path = "I/INLASPDERasters" }
 50d8cc41-879e-4ac9-9bf2-e3c789b17716 = { name = "LatentGaussianModels", path = "L/LatentGaussianModels" }
+a1b2c3d4-e5f6-4a5b-8c9d-0e1f2a3b4c5d = { name = "INLACore", path = "I/INLACore" }
 a8720bf5-58d3-44b3-b5a9-acd31420dc17 = { name = "GMRFs", path = "G/GMRFs" }
 f5a3b3a0-7e4a-4e6b-8f3a-1c2d3e4f5a6b = { name = "SequentialQuadraticProgramming", path = "S/SequentialQuadraticProgramming" }
