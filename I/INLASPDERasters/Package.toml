@@ -1,4 +1,4 @@
 name = "INLASPDERasters"
 uuid = "28708ac2-a765-4cf9-a54c-708b26c5e9a3"
-repo = "https://github.com/haavardhvarnes/INLA.git"
+repo = "https://github.com/haavardhvarnes/INLA.jl.git"
 subdir = "packages/INLASPDERasters.jl"
