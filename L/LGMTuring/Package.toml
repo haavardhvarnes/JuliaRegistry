@@ -1,0 +1,4 @@
+name = "LGMTuring"
+uuid = "588c9a2f-5465-4d76-a094-9dd327a73d42"
+repo = "https://github.com/haavardhvarnes/INLA.jl.git"
+subdir = "packages/LGMTuring.jl"
