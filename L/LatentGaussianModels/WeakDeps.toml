@@ -1,4 +1,7 @@
-["0.1"]
+[0-1]
 HCubature = "19dc6840-f33b-545b-b366-655c7e3ffd49"
 Integrals = "de52edbc-65ea-441a-8357-d3a637375a31"
 MakieCore = "20f20a25-4f0e-4fdf-b5d1-57303727442b"
+
+[1]
+PSIS = "ce719bf2-d5d0-4fb9-925d-10a81b42ad04"
