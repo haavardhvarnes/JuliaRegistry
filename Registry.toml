@@ -11,6 +11,7 @@ description = "Private Julia package registry"
 a1b2c3d4-e5f6-4a5b-8c9d-0e1f2a3b4c5d = { name = "INLACore", path = "I/INLACore" }
 a8720bf5-58d3-44b3-b5a9-acd31420dc17 = { name = "GMRFs", path = "G/GMRFs" }
 b7a2d392-5b12-4f3b-b8c2-39f8f3c7e8e5 = { name = "IntegratedNestedLaplace", path = "I/IntegratedNestedLaplace" }
+bd1353c5-d16b-48e9-b430-0ac24b813647 = { name = "LGMFormula", path = "L/LGMFormula" }
 c2d3e4f5-a6b7-4c8d-9e0f-1a2b3c4d5e6f = { name = "INLAModels", path = "I/INLAModels" }
 d3e4f5a6-b7c8-4d9e-0f1a-2b3c4d5e6f7a = { name = "INLASpatial", path = "I/INLASpatial" }
 f5a3b3a0-7e4a-4e6b-8f3a-1c2d3e4f5a6b = { name = "SequentialQuadraticProgramming", path = "S/SequentialQuadraticProgramming" }

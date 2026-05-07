@@ -1,0 +1,4 @@
+name = "LGMFormula"
+uuid = "bd1353c5-d16b-48e9-b430-0ac24b813647"
+repo = "https://github.com/haavardhvarnes/INLA.jl.git"
+subdir = "packages/LGMFormula.jl"
