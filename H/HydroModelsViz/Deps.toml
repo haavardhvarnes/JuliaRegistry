@@ -1,0 +1,6 @@
+[0]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+HydroModelsCore = "35d12705-5efd-4182-93f7-afc386ecd870"
+HydroModelsOpt = "3ad2896b-1445-4374-ab33-3e97259a88a5"
+Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"

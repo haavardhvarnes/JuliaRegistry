@@ -1,0 +1,4 @@
+name = "HydroModelsViz"
+uuid = "a798d185-2f50-4def-b29e-c2b8747cb8b1"
+repo = "https://github.com/haavardhvarnes/HydroModels.jl"
+subdir = "HydroModelsViz"

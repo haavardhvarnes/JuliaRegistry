@@ -1,0 +1,9 @@
+[0]
+GPUArrays = "10-11"
+HydroModelsCore = "0.1"
+JuMP = "1"
+KernelAbstractions = "0.9"
+MathOptInterface = "1"
+OrderedCollections = "1"
+Reexport = "1"
+julia = "1.10.0-1"

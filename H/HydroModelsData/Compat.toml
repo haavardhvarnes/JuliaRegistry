@@ -1,0 +1,6 @@
+[0]
+HydroModelsCore = "0.1"
+OrderedCollections = "1"
+Tables = "1"
+YAML = "0.4"
+julia = "1.10.0-1"
