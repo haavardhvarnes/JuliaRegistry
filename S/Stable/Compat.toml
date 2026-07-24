@@ -5,9 +5,15 @@ Interpolations = "0.16.3-0.16"
 Ipopt = "1.15.0-1"
 JuMP = "1.31.1-1"
 QuadGK = "2.11.3-2"
-Random = "1.11.0-1"
 Roots = "3.0.6-3"
 SpecialFunctions = "2.8.0-2"
-Statistics = "1.11.1-1"
 StatsBase = "0.34.12-0.34"
 julia = "1.10.0-1"
+
+["0-0.2.0"]
+Random = "1.11.0-1"
+Statistics = "1.11.1-1"
+
+["0.2.1-0"]
+Random = "1"
+Statistics = "1"
