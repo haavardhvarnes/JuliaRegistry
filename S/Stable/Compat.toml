@@ -2,8 +2,6 @@
 Distributions = "0.25.129-0.25"
 FFTW = "1.10.0-1"
 Interpolations = "0.16.3-0.16"
-Ipopt = "1.15.0-1"
-JuMP = "1.31.1-1"
 QuadGK = "2.11.3-2"
 SpecialFunctions = "2.8.0-2"
 StatsBase = "0.34.12-0.34"
@@ -16,9 +14,16 @@ Roots = "3.0.6-3"
 Random = "1.11.0-1"
 Statistics = "1.11.1-1"
 
+["0-0.3"]
+Ipopt = "1.15.0-1"
+JuMP = "1.31.1-1"
+
 ["0.2.1-0"]
 Random = "1"
 Statistics = "1"
 
 ["0.3-0"]
 LoopVectorization = "0.12.174-0.12"
+
+["0.4-0"]
+Optim = "2.2.1-2"
