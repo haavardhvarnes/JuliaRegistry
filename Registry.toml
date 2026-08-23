@@ -17,6 +17,7 @@ description = "Private Julia package registry"
 a1b2c3d4-e5f6-4a5b-8c9d-0e1f2a3b4c5d = { name = "INLACore", path = "I/INLACore" }
 a798d185-2f50-4def-b29e-c2b8747cb8b1 = { name = "HydroModelsViz", path = "H/HydroModelsViz" }
 a8720bf5-58d3-44b3-b5a9-acd31420dc17 = { name = "GMRFs", path = "G/GMRFs" }
+b29acff0-47ea-40dc-88a6-0d740a87b259 = { name = "Baker", path = "B/Baker" }
 b7a2d392-5b12-4f3b-b8c2-39f8f3c7e8e5 = { name = "IntegratedNestedLaplace", path = "I/IntegratedNestedLaplace" }
 b83cc262-783b-4d80-bd7e-3698e9ea66d0 = { name = "HydroModelsData", path = "H/HydroModelsData" }
 bd1353c5-d16b-48e9-b430-0ac24b813647 = { name = "LGMFormula", path = "L/LGMFormula" }

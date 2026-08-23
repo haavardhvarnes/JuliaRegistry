@@ -1,0 +1,3 @@
+name = "Baker"
+uuid = "b29acff0-47ea-40dc-88a6-0d740a87b259"
+repo = "https://github.com/haavardhvarnes/Baker.jl.git"
